@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdBlocker</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="scan">Scan</string>
+    <string name="link_host">Link Hosts</string>
+	<string name="write_host">Write Hosts</string>
+	<string name="copy_host">Copy Hosts</string>
+    
+</resources>
